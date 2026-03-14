@@ -129,6 +129,7 @@ nav .menu a {
     max-width: 585px;
     margin-left: 170px;
     align-self: flex-start;
+    margin-top: 100px;
 }
 
 #banner .banner-content h2 {
